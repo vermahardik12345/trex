@@ -1,0 +1,2 @@
+# trex
+IT IS A INFINITE RUNNER GAME
